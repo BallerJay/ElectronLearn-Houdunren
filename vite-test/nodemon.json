@@ -1,0 +1,8 @@
+{
+  "ignore": ["node_modules", "dist"],
+  "colours": true,
+  "verbose": true,
+  "restarttable": "rs",
+  "watch": ["*.*"],
+  "ext": "html,js,css,cjs"
+}
